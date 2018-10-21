@@ -1,7 +1,15 @@
 
+Introduction
+------------
+Using React's standard create-react-app scaffolding application is of great
+convenience, but it's a bit mysterious as to what it actually does, and it
+creates a huge set of dependencies that aren't needed for a minimal React application.
+
 This React application was created by hand by following the steps here:
 
 https://www.adrianprieto.com/building-a-react-js-app-from-scratch-in-10-steps/
+
+It creates a more minimal application so that one can better understand what is happening.
 
 Procedure
 ---------
